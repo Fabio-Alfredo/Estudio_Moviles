@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PointConter</string>
+    <string name="text_team_a">team a</string>
+    <string name="pointer_team_a">+ 1</string>
+    <string name="text_team_b">team b</string>
+    <string name="pointer_team_b">+ 1</string>
+    <string name="resultados_pointers">Resultados</string>
+    <string name="Result_teamA_teamB">El resultado final fue: \n team A %d \n vs \n team B %d</string>
+</resources>
