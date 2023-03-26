@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="LinearLayout_margin">10dp</dimen>
+    <dimen name="TextView_tema_Prin">20sp</dimen>
+    <dimen name="TextView_tema_second">10sp</dimen>
+    <dimen name="Cardview_margin">10dp</dimen>
+    <dimen name="Cardview_radius">20dp</dimen>
+    <dimen name="TextViewn_second">15sp</dimen>
+    <dimen name="Button_margin">10dp</dimen>
+    <dimen name="EditText_marginTop">15dp</dimen>
+    <dimen name="EditText_Size">15sp</dimen>
+    <dimen name="cardview_Radius">15dp</dimen>
+    <dimen name="TextView_size">25sp</dimen>
+    <dimen name="cardview_margin">15dp</dimen>
+    <dimen name="cardview_margin_team1">24dp</dimen>
+    <dimen name="TextView_margin">7dp</dimen>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="TextView_calculadora">CALCULADORA</string>
+    <string name="TextView_operacion">Seleccione la operacion a desarrollar</string>
+    <string name="TextView_restas">REALIZAR RESTAS</string>
+    <string name="TextView_sumas">REALIZAR SUMAS!!!</string>
+    <string name="Button_resta">Resta!</string>
+    <string name="Button_suma">Suma!</string>
+    <string name="EditText_numOne">Ingrese un numero</string>
+    <string name="Button_calcular">Calcular</string>
+    <string name="TextView_Bienvenido">Bienvenido a suma</string>
+    <string name="TextView_Resta">Bienvenido a resta</string>
+</resources>
