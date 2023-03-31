@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labo03.1</string>
+    <string name="cantidad_de_dinero">Cantidad de dinero</string>
+    <string name="Cant_cash">0</string>
+    <string name="five_diner">$0.05</string>
+    <string name="ten_diner">$0.10</string>
+</resources>
